@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adilyaza
-- 👀 I’m interested in data analytics, data visualization, SQL, Python, Tableau
+- 👀 I’m interested in data analytics, data visualization, SQL, Python, Tableau. I'm passionate about telling stories through data analysis.
 - 💞️ I’m looking to collaborate on data analysis and visualization projects
 - 📫 You can reach me here:
     [LinkedIn](https://www.linkedin.com/in/adilya-zaripova/)
